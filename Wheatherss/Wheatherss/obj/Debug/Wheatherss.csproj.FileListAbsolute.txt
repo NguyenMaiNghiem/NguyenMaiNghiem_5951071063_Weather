@@ -1,0 +1,13 @@
+D:\LapTrinhAPI\Wheatherss\Wheatherss\bin\Debug\Wheatherss.exe.config
+D:\LapTrinhAPI\Wheatherss\Wheatherss\bin\Debug\Wheatherss.exe
+D:\LapTrinhAPI\Wheatherss\Wheatherss\bin\Debug\Wheatherss.pdb
+D:\LapTrinhAPI\Wheatherss\Wheatherss\bin\Debug\Newtonsoft.Json.dll
+D:\LapTrinhAPI\Wheatherss\Wheatherss\bin\Debug\Newtonsoft.Json.xml
+D:\LapTrinhAPI\Wheatherss\Wheatherss\obj\Debug\Wheatherss.csprojAssemblyReference.cache
+D:\LapTrinhAPI\Wheatherss\Wheatherss\obj\Debug\Wheatherss.Form1.resources
+D:\LapTrinhAPI\Wheatherss\Wheatherss\obj\Debug\Wheatherss.Properties.Resources.resources
+D:\LapTrinhAPI\Wheatherss\Wheatherss\obj\Debug\Wheatherss.csproj.GenerateResource.cache
+D:\LapTrinhAPI\Wheatherss\Wheatherss\obj\Debug\Wheatherss.csproj.CoreCompileInputs.cache
+D:\LapTrinhAPI\Wheatherss\Wheatherss\obj\Debug\Wheatherss.csproj.CopyComplete
+D:\LapTrinhAPI\Wheatherss\Wheatherss\obj\Debug\Wheatherss.exe
+D:\LapTrinhAPI\Wheatherss\Wheatherss\obj\Debug\Wheatherss.pdb
